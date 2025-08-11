@@ -2,7 +2,7 @@
 
 I'm Maicon Peixinho, based in Iowa, US.
 
-- 🔭 I’m currently working on John Deere as Senior Engineering Manager
+- 🔭 I’m currently working at John Deere as Senior Engineering Manager
 
 <!--
 **maiconpeixinho/maiconpeixinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
